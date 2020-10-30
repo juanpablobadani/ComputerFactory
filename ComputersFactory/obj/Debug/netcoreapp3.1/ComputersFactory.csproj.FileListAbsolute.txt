@@ -1,0 +1,13 @@
+C:\Users\DELL09\source\repos\ComputersFactory\ComputersFactory\bin\Debug\netcoreapp3.1\ComputersFactory.exe
+C:\Users\DELL09\source\repos\ComputersFactory\ComputersFactory\bin\Debug\netcoreapp3.1\ComputersFactory.deps.json
+C:\Users\DELL09\source\repos\ComputersFactory\ComputersFactory\bin\Debug\netcoreapp3.1\ComputersFactory.runtimeconfig.json
+C:\Users\DELL09\source\repos\ComputersFactory\ComputersFactory\bin\Debug\netcoreapp3.1\ComputersFactory.runtimeconfig.dev.json
+C:\Users\DELL09\source\repos\ComputersFactory\ComputersFactory\bin\Debug\netcoreapp3.1\ComputersFactory.dll
+C:\Users\DELL09\source\repos\ComputersFactory\ComputersFactory\bin\Debug\netcoreapp3.1\ComputersFactory.pdb
+C:\Users\DELL09\source\repos\ComputersFactory\ComputersFactory\obj\Debug\netcoreapp3.1\ComputersFactory.csprojAssemblyReference.cache
+C:\Users\DELL09\source\repos\ComputersFactory\ComputersFactory\obj\Debug\netcoreapp3.1\ComputersFactory.AssemblyInfoInputs.cache
+C:\Users\DELL09\source\repos\ComputersFactory\ComputersFactory\obj\Debug\netcoreapp3.1\ComputersFactory.AssemblyInfo.cs
+C:\Users\DELL09\source\repos\ComputersFactory\ComputersFactory\obj\Debug\netcoreapp3.1\ComputersFactory.csproj.CoreCompileInputs.cache
+C:\Users\DELL09\source\repos\ComputersFactory\ComputersFactory\obj\Debug\netcoreapp3.1\ComputersFactory.dll
+C:\Users\DELL09\source\repos\ComputersFactory\ComputersFactory\obj\Debug\netcoreapp3.1\ComputersFactory.pdb
+C:\Users\DELL09\source\repos\ComputersFactory\ComputersFactory\obj\Debug\netcoreapp3.1\ComputersFactory.genruntimeconfig.cache
